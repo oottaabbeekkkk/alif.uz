@@ -1,0 +1,329 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.pic9{
+    margin-top: 125px;
+    margin-right: 50px;
+}
+.part1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.part3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.part4{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+}
+.box8{
+    border-radius: 5%;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 20px;
+    background-color: whitesmoke;
+}
+.box20{
+    border-radius: 5%;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 20px;
+    background-color: whitesmoke;
+
+}
+.h11{
+    padding: 5px 30px;
+    margin-top: 110px;
+}
+.box7{
+    width: 30%;
+}
+.part21{
+    padding: 40px;
+    border-radius: 30px;
+
+}
+.partpol{
+    width: 90%;
+    padding: 25px;
+    border-radius: 30px;
+    background-color: rgb(28, 28, 61);
+}
+.part2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 60px;
+    border-radius: 30px;
+    background-color: rgb(28, 28, 61);
+}
+.h2{
+    color: white;
+}
+.h7{
+    color: white;
+}
+.h8{
+    color: white;
+}
+.h3{
+    color: white;
+    padding: 20px 0px;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.icon{
+    padding: 5px 10px;
+}
+.btn1{
+    padding: 15px 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+}
+.box6{
+    margin-top: 90px;
+    width: 40%;
+}
+.pic2{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic6{
+    width: 80%;
+
+}
+.bobo{
+    width: 40%;
+}
+.box21{
+    border: 5px solid whitesmoke;
+}
+.box21{
+    width: 29%;
+}
+.part5{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.pic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cow1{
+    width: 30%;
+}
+.cow2{
+    width: 30%;
+}
+.cow3{
+    width: 30%;
+}
+.yul{
+    margin-top: 10px;
+    padding: 0px 15px;
+}
+.lip{
+    margin-top: 30px;
+    padding: 0px 20px;
+}
+.kop{
+    padding: 15px 20px;
+}
+.part6{
+    margin-top: 70px;
+}
+.btn31{
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    padding: 20px;
+}
+.macwin1{
+    width: 50%;
+    margin-top: 30px;
+}
+.mmm{
+    width: 50%;
+}
+.part7{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: darkblue;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.men{
+    padding: 30px;
+}
+.bag{
+    display: flex;
+    flex-wrap: wrap;
+}
+.men{
+    color: white;
+}
+.button{
+    padding: 50px 10px;
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.macwin2{
+    margin-top: 50px;
+}
+.hol{
+    padding: 10px 10px;
+}
+.kk{
+    font-size: 20px;
+    color: green;
+    border: none;
+    border-color: none;
+    padding: 5px 10px;
+}
+.alo{
+    margin-top: 100px;
+    color: green;
+}
+.bhu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+.part8{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    width: 70%;
+    border-radius: 20px;
+    margin: auto;
+}
+.snake1{
+    width: 50%;
+}
+.snake2{
+    padding: 0px 30px;
+    width: 50%;
+}
+.mayna{
+    padding: 40px;
+    width: 40%;
+    color: white;
+}
+.burgut{
+    width: 30%;
+}
+.lochin{
+    width: 20%;
+}
+.bulbul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.842);
+    border-bottom: 2px solid grey;
+}
+.kichkina{
+    margin-top: 30px;
+}
+.shaxx{
+    color: white;
+}
+.yut{
+    color: white;
+}
+.bttn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius:10px ;
+    color: white;
+}
+.gr{
+    padding: 0px 5px;
+}
+.cde{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.iicon{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content:space-around ;
+}
+.iicon1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.tree1{
+    text-align: center;
+    border-radius: 55%;
+    margin-left: 38px;
+    margin-right: 70px;
+    color: white;
+}
+.tree2{
+    color: red;
+}
+.tree3{
+    color: red;
+}
+
+.tree4{
+    color: white;
+}
+
+.tree5{
+    color: blue;
+}
+.qush{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.842)
+}
+
+
+
+
+
+
+
+
+
+
+
